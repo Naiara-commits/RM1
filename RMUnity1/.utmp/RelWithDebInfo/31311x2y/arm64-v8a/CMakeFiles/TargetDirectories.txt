@@ -1,0 +1,5 @@
+C:/Users/igart/Desktop/RM/RM1/RMUnity1/.utmp/RelWithDebInfo/31311x2y/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/igart/Desktop/RM/RM1/RMUnity1/.utmp/RelWithDebInfo/31311x2y/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/igart/Desktop/RM/RM1/RMUnity1/.utmp/RelWithDebInfo/31311x2y/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/igart/Desktop/RM/RM1/RMUnity1/.utmp/RelWithDebInfo/31311x2y/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/igart/Desktop/RM/RM1/RMUnity1/.utmp/RelWithDebInfo/31311x2y/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
